@@ -4,14 +4,11 @@ I'm Xiao Sun, currently a master student in the Institute of Computer Science & 
 
 ### Experience
 
-* PhD Candidate in Computer Science (09/2016 - present) <br/>
+* Master Candidate in Computer Science (09/2017 - present) <br/>
 School of Electronic Engineering and Computer Science, Peking University
 
-* Bachelor’s Degree in Chemistry (09/2012 - 07/2016) <br/>
-Yuanpei College, Peking University
-
-* Bachelor's Degree in Computer Science(09/2014 - 07/2016) <br/>
-School of Electronic Engineering and Computer Science, Peking University
+* Bachelor’s Degree in Chemistry (09/2013 - 06/2017) <br/>
+School of mathematics and statistics, Xidian University
 
 ### Research Interest
 My research interests focus on Computer Vision and Computer Graphics.
