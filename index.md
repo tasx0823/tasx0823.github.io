@@ -1,37 +1,35 @@
-## Welcome to SunXiao's Homepage.
+## Xia Zeqing's Homepage
 
-You can use the [editor on GitHub](https://github.com/tasx0823/sunxiao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm Xia Zeqing, currently a PhD candidate in the Institute of Computer Science & Technology of Peking University (<a href="www.icst.pku.edu.cn">ICST</a>), also a member of Character Shape Computing Lab (<a href="www.icst.pku.edu.cn/cscl">CSCL</a>).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Experience
 
-### Markdown
+* PhD Candidate in Computer Science (09/2016 - present) <br/>
+School of Electronic Engineering and Computer Science, Peking University
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Bachelor’s Degree in Chemistry (09/2012 - 07/2016) <br/>
+Yuanpei College, Peking University
 
-```markdown
-Syntax highlighted code block
+* Bachelor's Degree in Computer Science(09/2014 - 07/2016) <br/>
+School of Electronic Engineering and Computer Science, Peking University
 
-# Header 1
-## Header 2
-### Header 3
+### Research Interest
+My research interests focus on Computer Vision and Computer Graphics.
+I have done some works which apply deep learning techniques on character shape synthesis, including
+* Character image generation
+* Character contour simplification
+* Handwritting synthesis
 
-- Bulleted
-- List
+Currently, I'm working on some character image/skeleton/contour generation projects.
 
-1. Numbered
-2. List
+### Publications
 
-**Bold** and _Italic_ and `Code` text
+Zeqing Xia, Zhouhui Lian, Yingmin Tang, and Jianguo Xiao. 2018. As-compact-as-possible vectorization for character images. <i>In SIGGRAPH Asia 2018 Technical Briefs (SA '18).</i> ACM, New York, NY, USA, Article 5, 4 pages. DOI: https://doi.org/10.1145/3283254.3283283
 
-[Link](url) and ![Image](src)
-```
+### Courses
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Spring (2017~now): <a href="http://www.icst.pku.edu.cn/zlian/course/ENT/index.htm">Elementary Number Theory</a>, as a TA
 
-### Jekyll Themes
+### Contact Me
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tasx0823/sunxiao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+zeqing(dot)xia(at)pku(dot)edu(dot)cn
