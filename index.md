@@ -3,7 +3,6 @@
 I'm Xiao Sun, currently a master student in the Institute of Computer Science & Technology of Peking University (<a href="www.icst.pku.edu.cn">ICST</a>), also a member of Character Shape Computing Lab (<a href="www.icst.pku.edu.cn/cscl">CSCL</a>).
 
 ### Experience
-
 * Master Candidate in Computer Science (09/2017 - present) <br/>
 School of Electronic Engineering and Computer Science, Peking University
 
@@ -16,12 +15,10 @@ My research interests include some subfields of Computer Vision and Machine Lear
 * Point cloud analysis
 * Image generation
 
-
 ### Publications
+* Xiao Sun, Zhouhui Lian, Jianguo Xiao. "Anonymous Title", In Submission to Proc. of International Conference on Computer Vision (ICCV), Seoul, Korea, Oct. 2019
 
-Xiao Sun, Zhouhui Lian, Jianguo Xiao. "Anonymous Title", In Submission to Proc. of International Conference on Computer Vision (ICCV), Seoul, Korea, Oct. 2019
-
-Xiao Sun, Zhouhui Lian, Jianguo Xiao. "Anonymous Title", In Submission to ACM Multimedia Conference on Multimedia Conference. ACM, 2019.
+* Xiao Sun, Zhouhui Lian, Jianguo Xiao. "Anonymous Title", In Submission to ACM Multimedia Conference on Multimedia Conference. ACM, 2019.
 
 ### Awards
 * Freshman Scholarship in ICST, Peking University, 2017
