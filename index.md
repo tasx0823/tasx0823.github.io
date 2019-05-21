@@ -22,6 +22,7 @@ My research interests include some subfields of Computer Vision and Machine Lear
 
 ### Awards
 * Freshman Scholarship in ICST, Peking University, 2017
+* Outstanding Graduates of XiDian University, 2017
 * First Prize in XiDian ACM competition, 2016
 * Honorable Mention of Interdisciplinary Contest In Modeling (ICM), Global, 2016
 * National Encouragement Scholarship, 2016
