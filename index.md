@@ -22,10 +22,14 @@ My research interests include some subfields of Computer Vision and Machine Lear
 Xiao Sun, Zhouhui Lian, Jianguo Xiao. "Anonymous Title", In Submission to Proc. of International Conference on Computer Vision (ICCV), Seoul, Korea, Oct. 2019
 
 Xiao Sun, Zhouhui Lian, Jianguo Xiao. "Anonymous Title", In Submission to ACM Multimedia Conference on Multimedia Conference. ACM, 2019.
-### Courses
 
-Spring (2017~now): <a href="http://www.icst.pku.edu.cn/zlian/course/ENT/index.htm">Elementary Number Theory</a>, as a TA
+### Awards
+* Freshman Scholarship in ICST, Peking University, 2017
+* First Prize in XiDian ACM competition, 2016
+* Honorable Mention of Interdisciplinary Contest In Modeling (ICM), Global, 2016
+* National Encouragement Scholarship, 2016
+* First Prize in Shaanxi Contest District in China Undergraduate Mathematical Contest in Modeling, 2015
+* National Scholarship for undergraduate, 2015
 
 ### Contact Me
-
 xsun(dot) AT pku.edu.cn
