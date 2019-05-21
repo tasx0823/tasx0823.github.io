@@ -1,6 +1,6 @@
-## Xia Zeqing's Homepage
+## Sun Xiao's Homepage
 
-I'm Xia Zeqing, currently a PhD candidate in the Institute of Computer Science & Technology of Peking University (<a href="www.icst.pku.edu.cn">ICST</a>), also a member of Character Shape Computing Lab (<a href="www.icst.pku.edu.cn/cscl">CSCL</a>).
+I'm Xiao Sun, currently a master student in the Institute of Computer Science & Technology of Peking University (<a href="www.icst.pku.edu.cn">ICST</a>), also a member of Character Shape Computing Lab (<a href="www.icst.pku.edu.cn/cscl">CSCL</a>).
 
 ### Experience
 
