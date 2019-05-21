@@ -21,7 +21,7 @@ My research interests include some subfields of Computer Vision and Machine Lear
 
 Xiao Sun, Zhouhui Lian, Jianguo Xiao. "Anonymous Title", In Submission to Proc. of International Conference on Computer Vision (ICCV), Seoul, Korea, Oct. 2019
 
-Xiao Sun, Zhouhui Lian, Jianguo Xiao. "Anonymous Title", 2019 ACM Multimedia Conference on Multimedia Conference. ACM, 2019.
+Xiao Sun, Zhouhui Lian, Jianguo Xiao. "Anonymous Title", In Submission to ACM Multimedia Conference on Multimedia Conference. ACM, 2019.
 ### Courses
 
 Spring (2017~now): <a href="http://www.icst.pku.edu.cn/zlian/course/ENT/index.htm">Elementary Number Theory</a>, as a TA
