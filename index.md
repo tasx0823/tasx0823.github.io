@@ -32,4 +32,4 @@ Xiao Sun, Zhouhui Lian, Jianguo Xiao. "Anonymous Title", In Submission to ACM Mu
 * National Scholarship for undergraduate, 2015
 
 ### Contact Me
-xsun(dot) AT pku.edu.cn
+xsun AT pku.edu.cn
