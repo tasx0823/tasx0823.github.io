@@ -19,6 +19,7 @@ My research interests include some subfields of Computer Vision and Machine Lear
 * 3D shape reconstruction 
 * Point cloud analysis
 * Image generation
+* Video Retrieval
 
 
 ### Publications
