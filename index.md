@@ -5,7 +5,7 @@ I'm Xiao Sun, currently a master student in the Institute of Computer Science & 
 ### News
 One paper submitted to SCIS.
 
-One paper submitted to AAAI 2020.
+One paper submitted to CVPR 2020.
 
 ### Experience
 * Master Candidate in Computer Science (09/2017 - present) <br/>
