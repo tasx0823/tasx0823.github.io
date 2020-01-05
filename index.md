@@ -11,7 +11,7 @@ One paper submitted to CVPR 2020.
 * Master Candidate in Computer Science (09/2017 - present) <br/>
 School of Electronic Engineering and Computer Science, Peking University
 
-* Bachelor’s Degree in Chemistry (09/2013 - 06/2017) <br/>
+* Bachelor’s Degree in Information and Computing Science (09/2013 - 06/2017) <br/>
 School of mathematics and statistics, Xidian University
 
 ### Research Interest
