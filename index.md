@@ -25,8 +25,9 @@ My research interests include some subfields of Computer Vision and Machine Lear
 
 
 ### Publications
-* Xiao Sun, Zhouhui Lian, Jianguo Xiao. "SRINet: Learning Strictly Rotation-Invariant Representations
-for Point Cloud Classifcation and Segmentation", ACM MM 2019.
+* Xiao Sun, Zhouhui Lian. EasyMesh: An Efficient Method to Reconstruct 3D Mesh From a Single Image. Computer Aided Geometric Design (CAGD), 2020.
+* Xiao Sun, Zhouhui Lian, Jianguo Xiao. SRINet: Learning Strictly Rotation-Invariant Representations
+for Point Cloud Classifcation and Segmentation, ACM MM 2019.
 
 
 ### Awards
