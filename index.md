@@ -2,12 +2,6 @@
 
 I'm Xiao Sun, currently a master student in the Institute of Computer Science & Technology of Peking University (<a href="http://www.icst.pku.edu.cn/">ICST</a>), also a member of Character Shape Computing Lab (<a href="http://59.108.48.27/cscl/">CSCL</a>).
 
-### News
-One paper submitted to IJCAI.
-
-One paper submitted to GMP.
-
-One paper submitted to CVPR 2020.
 
 ### Experience
 * Master Candidate in Computer Science (09/2017 - present) <br/>
