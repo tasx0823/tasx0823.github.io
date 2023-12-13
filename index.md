@@ -26,7 +26,8 @@ for Point Cloud Classifcation and Segmentation. ACM MM 2019.
 * **Xiao Sun**, Xiang Long, Dongliang He, Shilei Wen, Zhohui Lian. VSRNet: End-to-End Video Segment Retrieval with Text Query. Pattern Recognition. 2021. 
 * **Xiao Sun**, Yang Huang, Zhohui Lian. Learning Isometry-Invariant Representations for Point Cloud Analysis. Pattern Recognition. 2022.
 * **Xiao Sun**, Bo Zhang, Chenrui Zhang, Han Ren, Mingchen Cai. Enhancing Personalized Ranking With Differentiable Group AUC Optimization. ICDM workshop 2022.
-
+* Chenrui Zhang, Lin Liu, Jinpeng Wang, Chuyuan Wang, **Xiao Sun**, Hongyu Wang, Mingchen Cai
+PREFER: Prompt Ensemble Learning via Feedback-Reflect-Refine. AAAI 2024.
 
 ### Awards
 * Freshman Scholarship in ICST, Peking University, 2017
